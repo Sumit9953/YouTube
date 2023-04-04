@@ -31,7 +31,7 @@ const Head = () => {
           className="w-1/2 border border-gray-400 p-2 rounded-l-full"
           type="text"
         />
-        <button className="border border-gray-400 px-5 py-2 rounded-r-full bg-gray-400">
+        <button className="border border-gray-400 px-5 py-2 rounded-r-full bg-gray-200">
           🔍
         </button>
       </div>
